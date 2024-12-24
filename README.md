@@ -55,10 +55,6 @@ mvn javafx:run
 -   `PreRenderedMap.txt`: Contains the layout of the game levels.
 -   `pom.xml`: Maven project configuration file.
 
-## License
-
-This project is licensed under the [MIT License](LICENSE).
-
 ## Acknowledgements
 
 This project was inspired by the original Bomberman game.
